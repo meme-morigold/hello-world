@@ -1,2 +1,6 @@
 # hello-world
-just another repository
+
+Hi there!
+
+How are you going?
+Me? I am no bad....haha
